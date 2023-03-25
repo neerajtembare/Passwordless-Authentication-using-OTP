@@ -1,0 +1,27 @@
+{
+  "name": "passlessauth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neerajtembare/passlessauth.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neerajtembare/passlessauth/issues"
+  },
+  "homepage": "https://github.com/neerajtembare/passlessauth#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "twilio": "^4.9.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
